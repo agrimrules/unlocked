@@ -1,3 +1,6 @@
+language: bash
+script:
+  - shellcheck ./unlocked.sh
 deploy:
   provider: s3
   bucket: "unlocked.agrim.io"
