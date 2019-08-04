@@ -9,7 +9,6 @@ deploy:
   local-dir: "deploy"
   skip_cleanup: true
   acl: public_read
-  content_type: text/plain
   region: us-west-1
   secret_access_key:
     secure: VUXFUUwbd+U9tNRAsZR+O4ZHNu2wNHh6U3ZEvqvToDmVfWqBlK/k9VmfOeDLDhZdxc+L9sQRX7289l/dB9EaZN1E8pOX/pSm/xjo9r1JTooVI65NxFU6u1adrKRh8KknoAn41lPv3Z2BnabD8cg6b0DnavfB0NO2la8aRg3ARytphr248HtMyTlXXnXaeGJ3HXUOWmAHYl4xPNMKpDEbE17U/rfu9gJzux5Xqh1nZvAZMw5V3jwlwVDHX+UpL5OBxbiNiBfAn2pz/11ruM+LVBXZiY3RSC8dFhG5SZdFccJlwTK3VDweGl72T0jBCflbuIj1NOQAbZJvOkIzHUB0QRCa2JxdNbQ78Vv/Q9Y+4+7c0k3n52795CLYzaBk1iAS/EUdQYs+T1NmVqJwXNJgV9W5b7K4q/+8CPvy8dEsvB7fGdxmD3akXxiam75C6VfkJVOP/ApeHaFOBZteWP1tiJZmZCtLzr3s2HA6LkcWEAE/b+qUF75n6f777S3sO1nswse0odUJ+rXgSM2PRc+kVfzob/TfW+aJD+OnTyS5Aa0wX7hby+d/CPLgCkoDki3CgIi6s+gkRr7hEtQkqLltYBX6UOWqueJdI6cVA1/5amzIeqf/XMUPfurpiymv0eslmPc++eiU2W9/pzyrilcW3sgWhmlm49itbgsCQu1MB/o=
