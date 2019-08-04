@@ -1,3 +1,4 @@
+#!/bin/bash
 echo 'export HISTCONTROL=ignorespace' >> ~/.bash_profile;
 brew install m-cli;
 echo "alias sl='m lock'" >> ~/.bash_profile;
