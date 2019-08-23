@@ -1,5 +1,4 @@
 # unlocked.sh [![Build Status](https://travis-ci.org/agrimrules/unlocked.sh.svg?branch=master)](https://travis-ci.org/agrimrules/unlocked.sh)
-<hr>
 
 Ever stumbled upon a friend/colleagues computer that was left unlocked?    
 You get tempted to mess with them but don't have enough time to type <i>all</i> those commands.    
