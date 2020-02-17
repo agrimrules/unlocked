@@ -7,7 +7,7 @@ deploy:
   provider: s3
   bucket: unlocked.agrim.io
   local-dir: deploy
-  cleanup: true
+  skip_cleanup: true
   acl: public_read
   region: us-west-1
   secret_access_key:
